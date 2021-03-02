@@ -9,12 +9,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author MINH
  */
 public class Bai1 {
     public static void main(String[] args) {
  int a;
-
  float f;
  double d;
  long l;
