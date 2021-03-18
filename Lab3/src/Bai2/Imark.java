@@ -3,11 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package Bai2;
 
 /**
  *
- * @author MINH
+ * @author kuxut
  */
-public class Bai4 {
-    
+public interface Imark {
+    public void input();
+    public void display();
 }
