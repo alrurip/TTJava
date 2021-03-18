@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author MINH
+ * @author kuxut
  */
 public class TestHashMap {
 

@@ -7,7 +7,7 @@ package Bai1;
 
 /**
  *
- * @author MINH
+ * @author kuxut
  */
 public class XeMay implements IXe{
     private String bienso;

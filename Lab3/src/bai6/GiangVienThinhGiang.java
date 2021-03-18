@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author MINH
+ * @author kuxut
  */
 public class GiangVienThinhGiang extends GiangVien {
 

@@ -7,7 +7,7 @@ package Bai3;
 
 /**
  *
- * @author MINH
+ * @author kuxut
  */
 public  class Boss extends Employee {
 

@@ -7,7 +7,7 @@ package Bai3;
 
 /**
  *
- * @author MINH
+ * @author kuxut
  */
 public class CommissionWorker extends Employee{
 float luong;
