@@ -7,7 +7,7 @@ package Bai1;
 
 /**
  *
- * @author kuxut
+ * @author MINH
  */
 public interface IXe {
     public void nhap();

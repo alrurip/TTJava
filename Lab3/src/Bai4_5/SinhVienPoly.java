@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kuxut
+ * @author MINH
  */
 public  class SinhVienPoly {
     private String hoTen;

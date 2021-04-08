@@ -7,7 +7,7 @@ package Bai1;
 
 /**
  *
- * @author kuxut
+ * @author MINH
  */
 public class XeMayHaNoi extends XeMay{
     private int n;

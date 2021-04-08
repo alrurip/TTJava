@@ -7,7 +7,7 @@ package Bai2;
 
 /**
  *
- * @author kuxut
+ * @author MINH
  */
 public interface Imark {
     public void input();
