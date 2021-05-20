@@ -40,21 +40,24 @@ public class main {
         i++;
          System.out.println("Sinh vien thu: " + i );
         sv.xuat();
-        System.out.println(sv.Hocluc());
-         System.out.println("danh sach sv loc luc gioi: ");
+        sv.Hocluc();
+          System.out.println("danh sach sv loc luc gioi: ");
          
           System.out.println("-----------");
                     Collections.sort(list, new Comparator<SinhVienPoly>(){
-            
-                   @Override
-                   public int compare(SinhVienPoly sv1, SinhVienPoly sv2){
-                           return sv1.getDiem() > sv2.getDiem()?-1:1;
+                   public int compare(getDiem sv1, getDiem sv2){
+                           return sv1.getDiem()>sv2.getDiem()?-1:1;
                        }
+
+            @Override
+            public int compare(SinhVienPoly o1, SinhVienPoly o2) {
+                throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+            }
                 });
                  System.out.println("Danh sach duoc sap xep giam dan theo diem la:");
                             
                             for(SinhVienPoly pr: list){
-                                System.out.println(" sinh vien thu "+i);
+                                System.out.println("Thong tin san pham thu "+i);
                                pr.xuat();
                                i++;
                           }
